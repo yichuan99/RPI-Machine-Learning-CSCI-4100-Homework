@@ -1,0 +1,36 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\begin{document}
+CSCI-4100 Assignment 10\\
+EXERCISES\\\\
+6.1\\
+(a) High cosine similarity and low Euclidean similarity: A long vector and a short vector both pointing at the same direction. \\
+
+	In this case, the cosine similarity will be 1 since two vectors are 0 degrees apart, while the Euclidean similarity is low since the vectors are very different in length, which results in a high Euclidean distance. \\
+	
+	Low cosine similarity and high Euclidean similarity: Two short vectors pointing at exact opposite directions.\\
+	
+	In this case, the cosine similarity will be -1 according to dot product calculation, yet the Euclidean similarity is relatively high since the distance between the tips of two short vectors is small. \\\\
+	
+	NOTE: In both cases above the vectors are assumed to start from one same origin.\\\\
+(b) A shift of the origin would change the cosine similarity since the position of the origin affects the angle between vectors. Euclidean similarity won't be affected since the shift of origin doesn't change the relative position of two vector tips. \\\\
+6.2 When $\pi(x)\geq \frac{1}{2}$, we have $f(x)=1$, $e(f(x))=1-\pi(x)$ and $\pi(x)\geq 1-\pi(x)$; we thus can conclude $e(f(x))=min(\pi(x),1-\pi(x))$.\\
+ 	When $\pi(x)< \frac{1}{2}$, we have $f(x)=-1$, $e(f(x))=\pi(x)$ and $\pi(x)< 1-\pi(x)$; we thus can conclude $e(f(x))=min(\pi(x),1-\pi(x))$.\\
+ 	We can now conclude that $e(f(x))=min(\pi(x),1-\pi(x))$ holds for all possible $\pi(x)$.\\
+ 	$e(f(x))$ is by definition the smallest error since it contains only stochastic noise which cannot be learned at all; therefore any other hypothesis that differs with $f(x)$ is only creating more errors instead of reducing them.\\\\ 
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
