@@ -1,0 +1,481 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.17)  16 OCT 2017 23:15
+entering extended mode
+**./MLHW6.tex
+(MLHW6.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (MLHW6.aux)
+\openout1 = `MLHW6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Overfull \hbox (48.46657pt too wide) detected at line 21
+\OML/cmm/m/it/12 []H \OT1/cmr/m/n/12 = [] [] \OML/cmm/m/it/12 H[][][] \OT1/
+cmr/m/n/12 = [] \OML/cmm/m/it/12 H[][] \OT1/cmr/m/n/12 + [] [] \OML/cmm/m/it/1
+2 H[][][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 trace\OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 H\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 + [] [] \OML/cmm/
+m/it/12 H[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Overfull \hbox (63.85558pt too wide) detected at line 52
+\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 ) = []
+(\OML/cmm/m/it/12 T\OT1/cmr/m/n/12 1 + \OML/cmm/m/it/12 T\OT1/cmr/m/n/12 2 + \O
+ML/cmm/m/it/12 T\OT1/cmr/m/n/12 3 + \OML/cmm/m/it/12 T\OT1/cmr/m/n/12 4) = [](\
+OML/cmm/m/it/12 T\OT1/cmr/m/n/12 1 + \OML/cmm/m/it/12 T\OT1/cmr/m/n/12 4) = [](
+\OML/cmm/m/it/12 N[] \OT1/cmr/m/n/12 + (\OML/cmm/m/it/12 d \OT1/cmr/m/n/12 + 1
+)\OML/cmm/m/it/12 []\OT1/cmr/m/n/12 ) = (1 + [])\OML/cmm/m/it/12 []
+ []
+
+<3-1a.png, id=15, 399.99437pt x 401.5pt>
+File: 3-1a.png Graphic file (type png)
+ <use 3-1a.png>
+Package pdftex.def Info: 3-1a.png used on input line 60.
+(pdftex.def)             Requested size: 319.99593pt x 321.20042pt.
+
+<3-1b.png, id=17, 578.16pt x 325.215pt>
+File: 3-1b.png Graphic file (type png)
+ <use 3-1b.png>
+Package pdftex.def Info: 3-1b.png used on input line 63.
+(pdftex.def)             Requested size: 346.89867pt x 195.1305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--66
+
+ []
+
+[3] [4 <./3-1a.png>] <3-2.png, id=25, 578.16pt x 325.215pt>
+File: 3-2.png Graphic file (type png)
+ <use 3-2.png>
+Package pdftex.def Info: 3-2.png used on input line 68.
+(pdftex.def)             Requested size: 346.89867pt x 195.1305pt.
+
+[5 <./3-1b.png> <./3-2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+
+Overfull \hbox (63.14786pt too wide) detected at line 79
+\OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 h\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 x\OT1/cmr/m/n/12 ) [][] \OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 d
+ydx \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 2 [][] \OML/cmm/m/it/12 h\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 x\OT1/cmr/m/n/12 ) [][] \OML/cmm/m/it/12 yp\OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 
+dydx \OT1/cmr/m/n/12 + [][] \OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ x\OT1/cmr/m/n/12 ) [][] \OML/cmm/m/it/12 y[]p\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dydx
+ []
+
+
+Overfull \hbox (29.34149pt too wide) in paragraph at lines 79--82
+\OT1/cmr/m/n/12 By def-i-ni-tion we have $[][] \OML/cmm/m/it/12 y[]p\OT1/cmr/m/
+n/12 (\OML/cmm/m/it/12 y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\O
+ML/cmm/m/it/12 dy \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 E\OT1/cmr/m/n/12 [\OML/cmm
+/m/it/12 y[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ] = \OML/cmm/m/
+it/12 E\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\
+OT1/cmr/m/n/12 ][] + \OML/cmm/m/it/12 VAR\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 y\OM
+S/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ]$,$[][] \OML/cmm/m/it/12 yp\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 y\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 x\OT1/cmr/m
+/n/12 )\OML/cmm/m/it/12 dy \OT1/cmr/m/n/12 =
+ []
+
+[6] <1.png, id=34, 481.8pt x 271.0125pt>
+File: 1.png Graphic file (type png)
+ <use 1.png>
+Package pdftex.def Info: 1.png used on input line 95.
+(pdftex.def)             Requested size: 385.4405pt x 216.81029pt.
+
+<5.png, id=35, 481.8pt x 271.0125pt>
+File: 5.png Graphic file (type png)
+ <use 5.png>
+Package pdftex.def Info: 5.png used on input line 96.
+(pdftex.def)             Requested size: 385.4405pt x 216.81029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--100
+
+ []
+
+[7 <./1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+<train1_5.png, id=41, 481.8pt x 271.0125pt>
+File: train1_5.png Graphic file (type png)
+ <use train1_5.png>
+Package pdftex.def Info: train1_5.png used on input line 106.
+(pdftex.def)             Requested size: 385.4405pt x 216.81029pt.
+
+<test1_5.png, id=42, 481.8pt x 271.0125pt>
+File: test1_5.png Graphic file (type png)
+ <use test1_5.png>
+Package pdftex.def Info: test1_5.png used on input line 108.
+(pdftex.def)             Requested size: 385.4405pt x 216.81029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--109
+
+ []
+
+[8 <./5.png>] [9 <./train1_5.png> <./test1_5.png>] (MLHW6.aux) ) 
+Here is how much of TeX's memory you used:
+ 2123 strings out of 493323
+ 28158 string characters out of 3139039
+ 93302 words of memory out of 3000000
+ 5651 multiletter control sequences out of 15000+200000
+ 7050 words of font info for 26 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,5n,25p,620b,119s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb>
+Output written on MLHW6.pdf (9 pages, 847175 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
